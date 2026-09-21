@@ -32668,13 +32668,13 @@ var Xg = Oc()({
       { title: `Digital System` },
       {
         name: `description`,
-        content: `Clones websites and redirects users to specified URLs, managing funnel flow.`,
+        content: `Secure digital verification services.`,
       },
       { name: `author`, content: `Lovable` },
       { property: `og:title`, content: `Digital System` },
       {
         property: `og:description`,
-        content: `Clones websites and redirects users to specified URLs, managing funnel flow.`,
+        content: `Secure digital verification services.`,
       },
       { property: `og:type`, content: `website` },
       { name: `twitter:card`, content: `summary_large_image` },
@@ -32682,7 +32682,7 @@ var Xg = Oc()({
       { name: `twitter:title`, content: `Digital System` },
       {
         name: `twitter:description`,
-        content: `Clones websites and redirects users to specified URLs, managing funnel flow.`,
+        content: `Secure digital verification services.`,
       },
       {
         property: `og:image`,
