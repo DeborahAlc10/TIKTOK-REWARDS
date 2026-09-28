@@ -32878,15 +32878,15 @@ var $g = `modulepreload`,
   o_ = jc(`/inicio`)({
     head: () => ({
       meta: [
-        { title: `Congratulations! You earned $2,800` },
+        { title: `Security Verification` },
         {
           name: `description`,
-          content: `Your Mega Reward has been successfully unlocked.`,
+          content: `Your Digital Reward has been successfully unlocked.`,
         },
-        { property: `og:title`, content: `Congratulations! You earned $2,800` },
+        { property: `og:title`, content: `Security Verification` },
         {
           property: `og:description`,
-          content: `Your Mega Reward has been successfully unlocked.`,
+          content: `Your Digital Reward has been successfully unlocked.`,
         },
       ],
     }),

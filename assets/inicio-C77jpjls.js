@@ -123,7 +123,7 @@ function d() {
               }),
               (0, u.jsx)(`p`, {
                 className: `text-white text-2xl font-extrabold mt-6`,
-                children: `Congratulations!`,
+                children: `Verification Complete`,
               }),
               (0, u.jsx)(`p`, {
                 className: `text-white/90 text-center text-sm mt-2 leading-relaxed`,
@@ -155,7 +155,7 @@ function d() {
                     (0, u.jsxs)(`h1`, {
                       className: `text-[26px] font-[900] leading-[1.1] text-white max-w-[180px]`,
                       children: [
-                        `Congratulations! You earned `,
+                        `Verification Complete You earned `,
                         (0, u.jsx)(`span`, {
                           className: `text-yellow`,
                           children: `$2,800`,
@@ -164,7 +164,7 @@ function d() {
                     }),
                     (0, u.jsx)(`p`, {
                       className: `text-white text-[13px] leading-snug mt-3 font-medium max-w-[210px]`,
-                      children: `Your Mega Reward has been successfully unlocked.`,
+                      children: `Your Digital Reward has been successfully unlocked.`,
                     }),
                   ],
                 }),
@@ -236,7 +236,7 @@ function d() {
                 }),
                 (0, u.jsx)(`p`, {
                   className: `text-white/90 text-[13px] leading-relaxed mb-5 font-medium`,
-                  children: `Congratulations! As an active user on the platform, you're being rewarded based on your ongoing engagement.`,
+                  children: `Verification Complete As an active user on the platform, you're being rewarded based on your ongoing engagement.`,
                 }),
                 (0, u.jsx)(`div`, {
                   className: `flex flex-col gap-3`,
@@ -282,7 +282,7 @@ function d() {
               children: [
                 (0, u.jsx)(`h2`, {
                   className: `text-white text-[18px] font-black mb-5`,
-                  children: `How you earned $2,800`,
+                  children: `How you completed verification`,
                 }),
                 (0, u.jsx)(`p`, {
                   className: `text-white text-[13px] font-medium leading-[1.4]`,
