@@ -9,6 +9,6 @@ var t = e(`shield-check`, [
     ],
     [`path`, { d: `m9 12 2 2 4-4`, key: `dzmm74` }],
   ]),
-  n = `https://checkout.vendepay.com/a7138011-a3bc-433f-a231-c0289818bd8e`,
+  n = `https://checkout.eaglepagamentos.com.br/ef543ff0e051`,
   r = `https://checkout.vendepay.com/fe582439-12bb-40b4-b735-df413388201f`;
 export { n, t as r, r as t };
