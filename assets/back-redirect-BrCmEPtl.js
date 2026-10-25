@@ -401,13 +401,16 @@ release`,
             children: [
               (0, h.jsx)(`a`, {
                 href: n,
-                onClick: () =>
+                onClick: (e) => {
+                  e.preventDefault();
                   i(`InitiateCheckout`, {
                     currency: `USD`,
                     value: 20.7,
                     content_type: `product`,
                     content_id: `withdrawal-release-discount`,
-                  }),
+                  });
+                  window.location.assign(n);
+                },
                 className: `w-full h-[60px] bg-gradient-to-r from-pink via-[#FF3D6B] to-pink text-white font-black text-[15px] rounded-[16px] flex items-center justify-center gap-2 active:scale-[0.97] transition-all shadow-[0_8px_30px_rgba(254,44,85,0.5)] uppercase tracking-wider`,
                 children: `Release $2,800.00`,
               }),

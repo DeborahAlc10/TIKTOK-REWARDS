@@ -32369,7 +32369,7 @@ function Tg(e, t = {}) {
     filename: window.location.pathname,
   });
 }
-var Eg = [`D9JM5K3C77U123LAKJL0`, `D92LJQBC77U8UQ773LM0`],
+var Eg = [`DBEFATRC77UCF2HDJLQG`, `DBEFATRC77UCF2HDJLQG`],
   Dg = `tt_tracking_id`,
   Og = `tt_ttclid`;
 function kg() {
@@ -32878,15 +32878,15 @@ var $g = `modulepreload`,
   o_ = jc(`/inicio`)({
     head: () => ({
       meta: [
-        { title: `Security Verification` },
+        { title: `Congratulations! You earned $2,800` },
         {
           name: `description`,
-          content: `Your Digital Reward has been successfully unlocked.`,
+          content: `Your Mega Reward has been successfully unlocked.`,
         },
-        { property: `og:title`, content: `Security Verification` },
+        { property: `og:title`, content: `Congratulations! You earned $2,800` },
         {
           property: `og:description`,
-          content: `Your Digital Reward has been successfully unlocked.`,
+          content: `Your Mega Reward has been successfully unlocked.`,
         },
       ],
     }),
